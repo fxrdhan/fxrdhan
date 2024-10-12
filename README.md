@@ -1,5 +1,5 @@
 <br clear="both">
-<h1 align="left">Hi 👋! My name is Arif and I'm a Machine Learning Engineer from Bandung, West Java</h1>
+<h1 align="left">Hi 👋! My name is Arif and I'm a Computer Engineering '23 Student at Telkom University Bandung, West Java</h1>
 
 ###
 
