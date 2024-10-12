@@ -59,9 +59,3 @@
 </div>
 
 ###
-
-<h3 align="left">Let's connect:</h3>
-
-[Social Media](https://hopp.bio/fxrdhan)
-
-###
