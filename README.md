@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="left">Hi 👋! My name is Fardhan and I'm a Machine Learning Engineer from Bandung, West Java</h1>
+<h1 align="left">Hi 👋! My name is Fardhan and I'm a Computer Engineering Student '23 at Telkom University Bandung, West Java</h1>
 
 ###
 
