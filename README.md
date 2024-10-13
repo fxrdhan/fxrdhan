@@ -1,13 +1,17 @@
-<div style="display: flex; justify-content: center; align-items: center; height: 100%;">
+<h1 align="center">Hi👋! I'm Arif</h1>
+<h2 align="center">I am a Computer Engineering Student '23 at Telkom University Bandung</h2>
+
+###
+
+<div align="center">
     <img src="https://media1.tenor.com/m/QhX09tce7s0AAAAC/glitch-look.gif" 
          alt="Glitch Look" 
          style="max-width: 100%; height: auto; max-height: 200px; object-fit: contain;">
 </div>
 
-<h2 align="left">Hi! My name is Arif and I'm a Computer Engineering Student '23 at Telkom University Bandung</h2>
+###
 
-
-<h3 align="left">My GitHub Stats:</h3>
+<h3 align="center">My GitHub Stats:</h3>
 
 
 <div align="center">
@@ -20,10 +24,10 @@
 <img src="https://raw.githubusercontent.com/fxrdhan/fxrdhan/output/snake.svg" alt="Snake animation" />
 
 
-<h3 align="left">Tech Stacks:</h3>
+<h3 align="center">Tech Stacks:</h3>
 
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
@@ -42,10 +46,10 @@
 </div>
 
 
-<h3 align="left">Main OS:</h3>
+<h3 align="center">Main OS:</h3>
 
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
@@ -53,6 +57,6 @@
 
 ###
 
-<img align="left" src="https://i.ibb.co.com/7WWdVhR/Screenshot-from-2024-10-13-21-47-19.png" style="max-width: 100%; height: auto;" alt="image description" />
+<img align="center" src="https://i.ibb.co.com/7WWdVhR/Screenshot-from-2024-10-13-21-47-19.png" style="max-width: 100%; height: auto;" alt="image description" />
 
 ###
