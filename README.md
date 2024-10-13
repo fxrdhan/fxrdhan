@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://media1.tenor.com/m/QhX09tce7s0AAAAC/glitch-look.gif"  />
+  <img height="200" src="https://media1.tenor.com/m/QhX09tce7s0AAAAC/glitch-look.gif" style="max-width: 100%; height: auto;" alt="Glitch Look" />
 </div>
 
 ###
