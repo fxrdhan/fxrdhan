@@ -68,6 +68,6 @@
 
 <br clear="both">
 
-<img align="left" height="400" src="https://i.ibb.co.com/7WWdVhR/Screenshot-from-2024-10-13-21-47-19.png"  />
+<img align="left" height="200" src="https://i.ibb.co.com/7WWdVhR/Screenshot-from-2024-10-13-21-47-19.png"  />
 
 ###
