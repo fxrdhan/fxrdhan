@@ -61,7 +61,7 @@
 
 ###
 
-```Shell
+<pre>
                           ./+o+-       fxrdhan@HUAWEI-MTD16
                   yyyyy- -yyyyyy+      OS: Ubuntu 23.10 mantic
                ://+//////-yyyyyyo      Kernel: x86_64 Linux 6.5.0-44-generic
@@ -80,4 +80,4 @@
                /osyyyyyyo++ooo+++/     
                    ````` +oo+++o\:     
                           `oo++.
-```
+</pre>
