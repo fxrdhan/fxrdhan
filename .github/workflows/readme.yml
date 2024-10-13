@@ -1,0 +1,51 @@
+name: Update README
+
+on:
+  schedule:
+    # Menjalankan action ini setiap 6 jam
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      # Ambil commit dan repo terbaru dari profil Anda
+      - name: Update README with Latest Commit
+        uses: actions/github-script@v4
+        with:
+          script: |
+            const fs = require('fs');
+            const { execSync } = require('child_process');
+
+            const username = 'fxrdhan';  // Ganti dengan username Anda
+            const response = await github.repos.listForUser({
+              username,
+              sort: 'created',
+            });
+
+            const repos = response.data.map(repo => `- [${repo.name}](${repo.html_url})`).join('\n');
+
+            // Ambil commit terbaru
+            const commits = execSync(`curl -s https://api.github.com/users/${username}/events/public | jq '.[] | select(.type=="PushEvent") | .payload.commits[0].message'`).toString();
+
+            let readme = fs.readFileSync('README.md', 'utf8');
+            const newReadme = readme.replace(/<!-- latest_repos -->[\s\S]*<!-- end_latest_repos -->/, `<!-- latest_repos -->\n${repos}\n<!-- end_latest_repos -->`)
+                                    .replace(/<!-- latest_commit -->[\s\S]*<!-- end_latest_commit -->/, `<!-- latest_commit -->\n${commits}\n<!-- end_latest_commit -->`);
+
+            fs.writeFileSync('README.md', newReadme);
+
+      - name: Commit and Push if Changed
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m 'Update README with latest repositories and commits' || echo "No changes to commit"
+          git push
+
