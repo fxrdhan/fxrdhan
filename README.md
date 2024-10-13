@@ -1,8 +1,8 @@
-<body style="display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0;">
+<div style="display: flex; justify-content: center; align-items: center; height: 100%;">
     <img src="https://media1.tenor.com/m/QhX09tce7s0AAAAC/glitch-look.gif" 
          alt="Glitch Look" 
          style="max-width: 100%; height: auto; max-height: 200px; object-fit: contain;">
-</body>
+</div>
 
 ###
 
