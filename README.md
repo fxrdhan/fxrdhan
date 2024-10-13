@@ -60,11 +60,3 @@
 
 ###
 
-## My Recent Repositories
-<!-- latest_repos -->
-<!-- end_latest_repos -->
-
-## My Latest Commit
-<!-- latest_commit -->
-<!-- end_latest_commit -->
-
