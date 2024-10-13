@@ -6,8 +6,6 @@
 
 ###
 
-<br clear="both">
-
 <h2 align="left">Hi! My name is Arif and I'm a Computer Engineering Student '23 at Telkom University Bandung, West Java</h2>
 
 ###
@@ -15,8 +13,6 @@
 <h3 align="left">My GitHub Stats:</h3>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fxrdhan&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true" height="150" alt="stats graph"  />
@@ -54,8 +50,6 @@
 
 ###
 
-<br clear="both">
-
 <h3 align="left">Main OS:</h3>
 
 ###
@@ -67,8 +61,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <img align="left" src="https://i.ibb.co.com/7WWdVhR/Screenshot-from-2024-10-13-21-47-19.png" style="max-width: 100%; height: auto;" alt="image description" />
 
