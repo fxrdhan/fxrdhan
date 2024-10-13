@@ -1,5 +1,7 @@
-<div align="center">
-  <img height="200" src="https://media1.tenor.com/m/QhX09tce7s0AAAAC/glitch-look.gif" style="max-width: 100%; height: auto;" alt="Glitch Look" />
+<div style="width: 100%; max-width: 300px; margin: 0 auto;">
+    <img src="https://media1.tenor.com/m/QhX09tce7s0AAAAC/glitch-look.gif" 
+         alt="Glitch Look" 
+         style="width: 100%; height: auto; max-height: 200px; object-fit: contain;">
 </div>
 
 ###
