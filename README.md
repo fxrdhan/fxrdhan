@@ -4,7 +4,7 @@
          style="max-width: 100%; height: auto; max-height: 200px; object-fit: contain;">
 </div>
 
-<h2 align="left">Hi! My name is Arif and I'm a Computer Engineering Student '23 at Telkom University Bandung, West Java</h2>
+<h2 align="left">Hi! My name is Arif and I'm a Computer Engineering Student '23 at Telkom University Bandung</h2>
 
 
 <h3 align="left">My GitHub Stats:</h3>
