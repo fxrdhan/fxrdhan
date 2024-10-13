@@ -1,12 +1,12 @@
-<br clear="both">
-
-<h2 align="left">Hi 👋! My name is Arif and I'm a Computer Engineering Student '23 at Telkom University Bandung, West Java</h2>
+<div align="center">
+  <img height="200" src="https://media1.tenor.com/m/QhX09tce7s0AAAAC/glitch-look.gif"  />
+</div>
 
 ###
 
-<div align="center">
-  <img height="200" src="https://media.tenor.com/ADP4nszb5AcAAAAi/shigure-ui-dance.gif"  />
-</div>
+<br clear="both">
+
+<h2 align="left">Hi! My name is Arif and I'm a Computer Engineering Student '23 at Telkom University Bandung, West Java</h2>
 
 ###
 
