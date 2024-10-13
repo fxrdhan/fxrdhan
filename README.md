@@ -28,20 +28,6 @@
 
 ###
 
-<br clear="both">
-
-<h3 align="left">Main OS:</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
-</div>
-
-###
-
 <h3 align="left">Tech Stacks:</h3>
 
 ###
@@ -62,6 +48,26 @@
   <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="40" alt="pytorch logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/anaconda/44A833" height="40" alt="anaconda logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<h3 align="left">Main OS:</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img height="400" src="https://i.ibb.co.com/7WWdVhR/Screenshot-from-2024-10-13-21-47-19.png"  />
 </div>
 
 ###
