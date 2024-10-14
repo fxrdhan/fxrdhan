@@ -4,7 +4,7 @@
 
 <div>
   <p align="center">
-    I am a student with a passion for the latest technology, particularly in the fields of Data Science and Machine Learning. Currently, I am focused on deepening my knowledge in Data Science through the <a href="https://www.dicoding.com/learningpaths/60" target="_blank">Data Scientist Learning Path</a> provided by <a href="https://www.dicoding.com" target="_blank">Dicoding Indonesia</a>.
+    I am a student with a passion for cutting-edge technology, particularly in the fields of Data Science and Machine Learning. I'm currently deepening my knowledge in  Data Science through the <a href="https://www.dicoding.com/learningpaths/60" target="_blank">Data Scientist Learning Path</a> provided by <a href="https://www.dicoding.com" target="_blank">Dicoding Indonesia</a>.
   </p>
 </div>
 
