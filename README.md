@@ -1,6 +1,6 @@
 <h1 align="center">Hi👋! I'm Arif</h1>
 
-<h2 align="center">I am a Computer Engineering Student '23 at Telkom University Bandung</h2>
+<h2 align="center">Computer Engineering Student '23 at Telkom University Bandung</h2>
 
 <div>
   <p align="center">
