@@ -75,24 +75,3 @@
 <!-- <img align="center" src="https://i.ibb.co.com/7WWdVhR/Screenshot-from-2024-10-13-21-47-19.png" style="max-width: 100%; height: auto;" alt="image description" /> -->
 
 ###
-
-<pre>
-                          ./+o+-       fxrdhan@HUAWEI-MTD16
-                  yyyyy- -yyyyyy+      OS: Ubuntu 23.10 mantic
-               ://+//////-yyyyyyo      Kernel: x86_64 Linux 6.5.0-44-generic
-           .++ .:/++++++/-.+sss/`      Packages: 3338
-         .:++o:  /++++++++/:--:/-      Shell: zsh 5.9
-        o:+o+:++.`..```.-/oo+++++/     DE: GNOME 45.0
-       .:+o:+o/.          `+sssoo+/    WM: Mutter
-  .++/+:+oo+o:`             /sssooo.   WM Theme: WhiteSur-Dark-blue
- /+++//+:`oo+o               /::--:.   GTK Theme: WhiteSur-Dark [GTK2/3]
- \+/+o+++`o++o               ++////.   Icon Theme: WhiteSur
-  .++.o+++oo+:`             /dddhhh.   Font: System Font weight=410 11
-       .+.o+oo:.          `oddhhhh+    
-        \+.++o+o``-````.:ohdhhhhh+     
-         `:o+++ `ohhhhhhhhyo++os:      
-           .o:`.syhhhhhhh/.oo++o`      
-               /osyyyyyyo++ooo+++/     
-                   ````` +oo+++o\:     
-                          `oo++.
-</pre>
