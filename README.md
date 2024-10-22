@@ -21,9 +21,10 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/fxrdhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fxrdhan" height="30" width="40" /></a>
-<a href="https://kaggle.com/fxrdhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fxrdhan" height="30" width="40" /></a>
 <a href="https://instagram.com/fxrdhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fxrdhan" height="30" width="40" /></a>
 <a href="https://fb.com/fxrdhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fxrdhan" height="30" width="40" /></a>
+<a href="https://line.me/ti/p/o6iVgjq3j9" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/41/LINE_logo.svg" alt="fxrdhan" height="30" width="40" /></a>
+<a href="https://kaggle.com/fxrdhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fxrdhan" height="30" width="40" /></a>
 </p>
 
 
@@ -39,7 +40,7 @@
 
 <img src="https://raw.githubusercontent.com/fxrdhan/fxrdhan/output/snake.svg" alt="Snake animation" />
 
-<h3 align="center">Tech Stacks:</h3>
+<h3 align="center">Language & Tools:</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
