@@ -27,21 +27,16 @@
 <a href="https://kaggle.com/fxrdhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fxrdhan" height="30" width="40" /></a>
 </p>
 
-
 ###
 
-<h3 align="center">My GitHub stats</h3>
+<h3 align="center">Main OS</h3>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=fxrdhan&locale=en&mode=daily&theme=merko&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-<div align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=fxrdhan&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true" height="150" alt="stats graph"  /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fxrdhan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=merko&hide_border=true&custom_title=Languages" height="190" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fxrdhan&theme=merko&hide_border=true&hide_title=false&custom_title=Contribution%20Graph&area=true" height="190" alt="activity-graph graph"  />
-  <img src="https://raw.githubusercontent.com/fxrdhan/fxrdhan/output/snake.svg" alt="Snake animation" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
 </div>
 
-
+###
 
 <h3 align="center">I code with</h3>
 <div align="center">
@@ -66,13 +61,13 @@
 
 ###
 
-<h3 align="center">Main OS</h3>
-
-
+<h3 align="center">My GitHub stats</h3>
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fxrdhan&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=merko&hide_border=true&custom_title=Languages" height="190" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=fxrdhan&locale=en&mode=daily&theme=merko&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=fxrdhan&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true" height="150" alt="stats graph"  /> -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fxrdhan&theme=merko&hide_border=true&hide_title=false&custom_title=Contribution%20Graph&area=true" height="190" alt="activity-graph graph"  />
+  <img src="https://raw.githubusercontent.com/fxrdhan/fxrdhan/output/snake.svg" alt="Snake animation" />
 </div>
 
 ###
