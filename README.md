@@ -41,6 +41,8 @@
   <img width="12" />
   <img src="https://github.com/scipy/scipy.org/blob/main/static/images/logo.svg" height="40" alt="scipy logo"  />
   <img width="12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40" alt="seaborn logo"  />
   <img width="12" />
   <img src="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" height="40" alt="matplotlib logo"  />
