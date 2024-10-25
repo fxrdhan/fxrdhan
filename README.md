@@ -18,7 +18,7 @@
 
 ###
 
-<h2 align="center">Connect with me</h2>
+<h2 align="center">Connect with Me</h2>
 <p align="center">
 <a href="https://linkedin.com/in/fxrdhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fxrdhan" height="30" width="40" /></a>
 <a href="https://instagram.com/fxrdhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fxrdhan" height="30" width="40" /></a>
@@ -59,11 +59,11 @@
 
 ###
 
-<h2 align="center">Visitors</h2>
+<h2 align="center">Profile Views</h2>
 <div align="center">
   <img src="https://profile-counter.glitch.me/fxrdhan/count.svg?"  />
 </div>
-<h2 align="center">Most Languages</h2>
+<h2 align="center">Most Used Languages</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fxrdhan&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=merko&hide_border=true&custom_title=Languages" height="190" alt="languages graph"  />
 </div>
@@ -76,7 +76,7 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fxrdhan&theme=merko&hide_border=true&hide_title=false&custom_title=Contribution%20Graph&area=true" height="190" alt="activity-graph graph"  />
 </div>
-<h2 align="center">Snake 🐍</h2>
+<h2 align="center">🐍 Snake</h2>
 <div align="center">
   <img src="https://raw.githubusercontent.com/fxrdhan/fxrdhan/output/snake.svg" alt="Snake animation" />
 </div>
