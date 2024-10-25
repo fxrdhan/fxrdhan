@@ -18,7 +18,7 @@
 
 ###
 
-<h3 align="center">Connect with me</h3>
+<h2 align="center">Connect with me</h2>
 <p align="center">
 <a href="https://linkedin.com/in/fxrdhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fxrdhan" height="30" width="40" /></a>
 <a href="https://instagram.com/fxrdhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fxrdhan" height="30" width="40" /></a>
@@ -29,7 +29,7 @@
 
 ###
 
-<h3 align="center">I code with</h3>
+<h2 align="center">I code with</h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -59,12 +59,25 @@
 
 ###
 
-<h3 align="center">My GitHub stats</h3>
+<h2 align="center">Visitors</h2>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/fxrdhan/count.svg?"  />
+</div>
+<h2 align="center">Most Languages</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fxrdhan&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=merko&hide_border=true&custom_title=Languages" height="190" alt="languages graph"  />
+</div>
+<h2 align="center">Streak</h2>
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=fxrdhan&locale=en&mode=daily&theme=merko&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div> 
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=fxrdhan&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true" height="150" alt="stats graph"  /> -->
+<h2 align="center">Activity Graph</h2>
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fxrdhan&theme=merko&hide_border=true&hide_title=false&custom_title=Contribution%20Graph&area=true" height="190" alt="activity-graph graph"  />
+</div>
+<h2 align="center">Snake 🐍</h2>
+<div align="center">
   <img src="https://raw.githubusercontent.com/fxrdhan/fxrdhan/output/snake.svg" alt="Snake animation" />
 </div>
 
