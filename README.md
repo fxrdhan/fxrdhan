@@ -74,7 +74,7 @@
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=fxrdhan&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true" height="150" alt="stats graph"  /> -->
 <h2 align="center">Contribution Graph</h2>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fxrdhan&theme=merko&hide_border=true&hide_title=false&custom_title=Contribution%20Graph&area=true" height="190" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fxrdhan&theme=merko&hide_border=true&hide_title=true&custom_title=Contribution%20Graph&area=true" height="190" alt="activity-graph graph"  />
 </div>
 <h2 align="center">🐍 Snake</h2>
 <div align="center">
