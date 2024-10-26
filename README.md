@@ -39,7 +39,7 @@
   <img width="12" />
   <img src="https://github.com/scipy/scipy.org/blob/main/static/images/logo.svg" height="40" alt="scipy logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img src="https://github.com/user-attachments/assets/c63bd32e-239d-4b72-a02f-e3772483b6e5" height="40" alt="pandas logo"  />
   <img width="12" />
   <img src="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" height="40" alt="matplotlib logo"  />
   <img width="12" />
@@ -49,6 +49,8 @@
   <img width="12" />
   <img src="https://github.com/user-attachments/assets/477d9c47-4205-4f7d-a961-222b0cdea204" height="40" alt="keras logo"  />
   <img width="12" />
+  <img src="https://github.com/user-attachments/assets/5e5af73f-aebd-4527-a71b-95c71434362d" height="40" alt="tensorflow logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
   <img width="12" />
 <!--   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
@@ -57,8 +59,9 @@
   <img width="12" /> -->
   <img src="https://cdn.simpleicons.org/anaconda/44A833" height="40" alt="anaconda logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
+  <img src="https://github.com/user-attachments/assets/68f81cd0-d3fd-4bcf-9bdd-acd38c41886e" height="40" alt="ubuntu logo"  />
   <img width="12" />
+
 </div>
 
 ###
