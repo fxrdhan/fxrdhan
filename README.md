@@ -47,6 +47,8 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="sklearn logo"  />
   <img width="12" />
+  <img src="https://github.com/user-attachments/assets/477d9c47-4205-4f7d-a961-222b0cdea204" height="40" alt="keras logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
   <img width="12" />
 <!--   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
