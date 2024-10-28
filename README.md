@@ -45,6 +45,8 @@
   <img width="12" />
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40" alt="seaborn logo"  />
   <img width="12" />
+  <img src="https://github.com/user-attachments/assets/46e072ad-6974-4965-a1f2-80e7ef44dea3" height="40" alt="plotly logo"  />
+  <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="sklearn logo"  />
   <img width="12" />
   <img src="https://github.com/user-attachments/assets/477d9c47-4205-4f7d-a961-222b0cdea204" height="40" alt="keras logo"  />
