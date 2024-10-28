@@ -51,6 +51,8 @@
   <img width="12" />
   <img src="https://github.com/user-attachments/assets/5e5af73f-aebd-4527-a71b-95c71434362d" height="40" alt="tensorflow logo"  />
   <img width="12" />
+  <img src="https://github.com/user-attachments/assets/c13ff53a-5d01-44d7-9fbf-53d02f3a716e" height="40" alt="optuna logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
   <img width="12" />
 <!--   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
