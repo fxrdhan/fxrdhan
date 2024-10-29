@@ -57,6 +57,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
   <img width="12" />
+  <img src="https://i.ibb.co.com/sy5mFZt/docker-mark-blue.png" height="40" alt="docker logo"  />
+  <img width="12" />
 <!--   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
   <img width="12" /> -->
 <!--   <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="40" alt="mysql logo"  />
