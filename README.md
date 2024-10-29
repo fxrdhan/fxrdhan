@@ -57,13 +57,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
   <img width="12" />
-  <img src="https://i.ibb.co.com/sy5mFZt/docker-mark-blue.png" height="40" alt="docker logo"  />
-  <img width="12" />
 <!--   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
   <img width="12" /> -->
 <!--   <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="40" alt="mysql logo"  />
   <img width="12" /> -->
   <img src="https://cdn.simpleicons.org/anaconda/44A833" height="40" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://i.ibb.co.com/sy5mFZt/docker-mark-blue.png" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://github.com/user-attachments/assets/68f81cd0-d3fd-4bcf-9bdd-acd38c41886e" height="40" alt="ubuntu logo"  />
   <img width="12" />
