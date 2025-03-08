@@ -35,14 +35,14 @@
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" height="40" alt="numpy logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/1144px-Matlab_Logo.png" height="40" alt="matlab logo"  />
-  <img width="12" />
+<!--   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/1144px-Matlab_Logo.png" height="40" alt="matlab logo"  />
+  <img width="12" /> -->
   <img src="https://github.com/scipy/scipy.org/blob/main/static/images/logo.svg" height="40" alt="scipy logo"  />
   <img width="12" />
   <img src="https://github.com/user-attachments/assets/c63bd32e-239d-4b72-a02f-e3772483b6e5" height="40" alt="pandas logo"  />
   <img width="12" />
-  <img src="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" height="40" alt="matplotlib logo"  />
-  <img width="12" />
+<!--   <img src="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" height="40" alt="matplotlib logo"  />
+  <img width="12" /> -->
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40" alt="seaborn logo"  />
   <img width="12" />
   <img src="https://github.com/user-attachments/assets/46e072ad-6974-4965-a1f2-80e7ef44dea3" height="40" alt="plotly logo"  />
