@@ -4,7 +4,7 @@
 
 <div>
   <p align="center">
-    I am a student with a passion for cutting-edge technology, particularly in the fields of Data Science and Front-end Engineer.
+    I am a student with a passion in the fields of Data Science and Front-end Engineering.
   </p>
 </div>
 
@@ -38,26 +38,33 @@
 ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white)
 ![Zustand](https://img.shields.io/badge/zustand-964B00.svg?style=for-the-badge&logo=)
 ![Motion](https://img.shields.io/badge/Motion-f1c232?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzNCAxMiI+PHBhdGggZD0iTSAxMi44MzggMCBMIDYuMTIgMTEuOTg5IEwgMCAxMS45ODkgTCA1LjI0NSAyLjYyOCBDIDYuMDU5IDEuMTc2IDguMDg4IDAgOS43NzggMCBaIE0gMjcuODQ2IDIuOTk3IEMgMjcuODQ2IDEuMzQyIDI5LjIxNiAwIDMwLjkwNiAwIEMgMzIuNTk2IDAgMzMuOTY2IDEuMzQyIDMzLjk2NiAyLjk5NyBDIDMzLjk2NiA0LjY1MyAzMi41OTYgNS45OTUgMzAuOTA2IDUuOTk1IEMgMjkuMjE2IDUuOTk1IDI3Ljg0NiA0LjY1MyAyNy44NDYgMi45OTcgWiBNIDEzLjk4NSAwIEwgMjAuMTA1IDAgTCAxMy4zODcgMTEuOTg5IEwgNy4yNjcgMTEuOTg5IFogTSAyMS4yMTQgMCBMIDI3LjMzNCAwIEwgMjIuMDg4IDkuMzYyIEMgMjEuMjc1IDEwLjgxMyAxOS4yNDYgMTEuOTg5IDE3LjU1NiAxMS45ODkgTCAxNC40OTYgMTEuOTg5IFoiIGZpbGw9InZhcigtLXRva2VuLTA0ZDkzMjU1LWQ2YWItNGJiYy1hMTk0LTcxZTAwNDIxNGZiMCwgcmdiKDEyLCAxNiwgMTgpKSI+PC9wYXRoPjwvc3ZnPg==)
+<div align="center">
+  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
 </div>
 
 
 ###
 
-<h2 align="center">Most Used Languages</h2>
+<!-- <h2 align="center">Most Used Languages</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fxrdhan&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=merko&hide_border=true&custom_title=Languages" height="190" alt="languages graph"  />
-</div>
-<h2 align="center">Streak</h2>
+</div> -->
+<h2 align="center">Stats</h2>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=fxrdhan&locale=en&mode=daily&theme=merko&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div> 
+<!-- </div>  -->
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=fxrdhan&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true" height="150" alt="stats graph"  /> -->
-<h2 align="center">Contribution Graph</h2>
-<div align="center">
+<!-- <h2 align="center">Contribution Graph</h2> -->
+<!-- <div align="center"> -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fxrdhan&theme=merko&hide_border=true&hide_title=true&custom_title=Contribution%20Graph&area=true" height="190" alt="activity-graph graph"  />
-</div>
-<div align="center">
+<!-- </div>
+<div align="center"> -->
   <img src="https://raw.githubusercontent.com/fxrdhan/fxrdhan/output/snake.svg" alt="Snake animation" />
 </div>
 
