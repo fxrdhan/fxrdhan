@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋! I'm Arif</h1>
+<!-- <h1 align="center">Hi👋! I'm Arif</h1>
 
 <h2 align="center">Computer Engineering Student '23<br>Telkom University Bandung</h2>
 
@@ -57,11 +57,11 @@
 </div> -->
 <h2 align="center">Stats</h2>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=fxrdhan&locale=en&mode=daily&theme=merko&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
-<!-- </div>  -->
+ <img src="https://streak-stats.demolab.com?user=fxrdhan&locale=en&mode=daily&theme=merko&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  /> 
+</div>
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=fxrdhan&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true" height="150" alt="stats graph"  /> -->
 <!-- <h2 align="center">Contribution Graph</h2> -->
-<!-- <div align="center"> -->
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fxrdhan&theme=merko&hide_border=true&hide_title=true&custom_title=Contribution%20Graph&area=true" height="190" alt="activity-graph graph"  />
 <!-- </div>
 <div align="center"> -->
@@ -72,4 +72,4 @@
 
 <!-- <img align="center" src="https://i.ibb.co.com/7WWdVhR/Screenshot-from-2024-10-13-21-47-19.png" style="max-width: 100%; height: auto;" alt="image description" /> -->
 
-###
+### -->
