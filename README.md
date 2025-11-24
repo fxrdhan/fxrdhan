@@ -1,4 +1,4 @@
-<!-- <h1 align="center">Hi👋! I'm Arif</h1>
+<h1 align="center">Hi👋! I'm Arif</h1>
 
 <h2 align="center">Computer Engineering Student '23<br>Telkom University Bandung</h2>
 
@@ -48,7 +48,6 @@
 
 </div>
 
-
 ###
 
 <!-- <h2 align="center">Most Used Languages</h2>
@@ -71,5 +70,3 @@
 ###
 
 <!-- <img align="center" src="https://i.ibb.co.com/7WWdVhR/Screenshot-from-2024-10-13-21-47-19.png" style="max-width: 100%; height: auto;" alt="image description" /> -->
-
-### -->
