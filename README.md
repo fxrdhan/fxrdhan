@@ -11,9 +11,7 @@
 ###
 
 <div align="center">
-    <img src="https://media1.tenor.com/m/zYSS_Un1a1oAAAAC/anime-arata.gif" 
-         alt="Glitch Look" 
-         style="max-width: 100%; height: auto; max-height: 200px; object-fit: contain;">
+    <img width="1344" height="456" alt="image" src="https://github.com/user-attachments/assets/58be58fe-c2ec-43af-9f6d-f5f79c90487c" />
 </div>
 
 ###
