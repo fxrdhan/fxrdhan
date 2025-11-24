@@ -1,5 +1,11 @@
 <h1 align="center">Hi👋! I'm Arif</h1>
 
+<div align="center">
+    <img width="1344" height="456" alt="image" src="https://i.pinimg.com/originals/eb/7f/0c/eb7f0ccf927c93aeedbb3cf100d6fd29.gif" />
+</div>
+
+###
+
 <h2 align="center">Computer Engineering Student '23<br>Telkom University Bandung</h2>
 
 <div>
@@ -10,13 +16,7 @@
 
 ###
 
-<div align="center">
-    <img width="1344" height="456" alt="image" src="https://i.pinimg.com/originals/eb/7f/0c/eb7f0ccf927c93aeedbb3cf100d6fd29.gif" />
-</div>
-
-###
-
-<h2 align="center">Connect with Me</h2>
+<!-- <h2 align="center">Connect with Me</h2> -->
 <p align="center">
 <a href="https://linkedin.com/in/fxrdhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fxrdhan" height="30" width="40" /></a>
 <a href="https://instagram.com/fxrdhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fxrdhan" height="30" width="40" /></a>
@@ -27,6 +27,7 @@
 ###
 
 <h2 align="center">Mostly Code with</h2>
+
 <div align="center">
   
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -53,6 +54,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fxrdhan&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=merko&hide_border=true&custom_title=Languages" height="190" alt="languages graph"  />
 </div> -->
 <h2 align="center">Stats</h2>
+
+###
+
 <div align="center">
  <img src="https://streak-stats.demolab.com?user=fxrdhan&locale=en&mode=daily&theme=merko&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  /> 
 </div>
