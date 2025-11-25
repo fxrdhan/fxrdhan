@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="center">Computer Engineering Student '23<br>Telkom University Bandung</h2>
+<h2 align="center">Computer Engineering '23 Student<br>Telkom University Bandung</h2>
 
 <div>
   <p align="center">
