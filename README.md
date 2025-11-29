@@ -66,7 +66,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fxrdhan&theme=merko&hide_border=true&hide_title=true&custom_title=Contribution%20Graph&area=true" height="190" alt="activity-graph graph"  />
 <!-- </div>
 <div align="center"> -->
-  <img src="https://raw.githubusercontent.com/fxrdhan/fxrdhan/output/snake.svg" alt="Snake animation" />
+  <!-- <img src="https://raw.githubusercontent.com/fxrdhan/fxrdhan/output/snake.svg" alt="Snake animation" /> -->
 </div>
 
 ###
