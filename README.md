@@ -1,7 +1,9 @@
 <h1 align="center">Hi👋! I'm Arif</h1>
 
 <div align="center">
-    <img width="1344" height="456" alt="image" src="https://i.pinimg.com/originals/eb/7f/0c/eb7f0ccf927c93aeedbb3cf100d6fd29.gif" />
+  <img src="https://i.pinimg.com/originals/eb/7f/0c/eb7f0ccf927c93aeedbb3cf100d6fd29.gif"
+       alt="banner"
+       width="100%" />
 </div>
 
 ###
@@ -17,12 +19,31 @@
 ###
 
 <!-- <h2 align="center">Connect with Me</h2> -->
-<p align="center">
-<a href="https://linkedin.com/in/fxrdhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fxrdhan" height="30" width="40" /></a>
-<a href="https://instagram.com/fxrdhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fxrdhan" height="30" width="40" /></a>
-<a href="https://line.me/ti/p/o6iVgjq3j9" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/41/LINE_logo.svg" alt="fxrdhan" height="30" width="40" /></a>
-<a href="https://kaggle.com/fxrdhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fxrdhan" height="30" width="40" /></a>
-</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50">
+      <a href="https://linkedin.com/in/fxrdhan">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" />
+      </a>
+    </td>
+    <td align="center" width="50">
+      <a href="https://instagram.com/fxrdhan">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="30" />
+      </a>
+    </td>
+    <td align="center" width="50">
+      <a href="https://line.me/ti/p/o6iVgjq3j9">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/LINE_logo.svg" alt="LINE" height="30" width="30" />
+      </a>
+    </td>
+    <td align="center" width="50">
+      <a href="https://kaggle.com/fxrdhan">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="30" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ###
 
